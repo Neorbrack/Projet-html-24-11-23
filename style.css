@@ -1,0 +1,13 @@
+.plats {
+    list-style : none;
+}
+
+
+.plats img {
+    width: 150px;
+    height: auto;
+}
+
+.plats h4 {
+    display: inline;
+}
